@@ -1,4 +1,4 @@
-# Coders by : Mr.Tr3v!0n
+# Coders by : Cyberk4nd4S
 # buat : Kamis, 10 jan 2019 [10:28]
 
 import marshal
